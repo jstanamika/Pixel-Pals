@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "title": "Pixel Pals",
+  "description": "Meet seven tiny pixel companions, take gentle focus and self-care breaks, and play six cozy mini-games in a pastel browser world.",
+  "defaultCaptions": {},
+  "assets": {
+    "og": "assets/share/og.png",
+    "favicon": "assets/share/favicon.png"
+  }
+}
